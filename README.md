@@ -7,3 +7,11 @@
   </div>
 <img src="https://komarev.com/ghpvc/?username=AlexTLG&style=flat-square&color=blue" alt=""/>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif" width="600" height="300"/>
+</div>
+### :cat: About Me:
+
+I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+- 
