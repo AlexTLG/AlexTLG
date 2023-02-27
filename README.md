@@ -19,7 +19,7 @@
 I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ya.Praktikum
 - :briefcase: I’m seriously interesting how to do quality cheks and write good docs
 - :microscope: In free time I'm reading books like an "How Google test software"
-- :keyboard::computer_mouse: Usualy I'm play in Steam with friends from amother country and practice :gb: language
+- :keyboard::computer_mouse: Usualy I'm play in Steam with friends from amother countries and practice :gb: language
 - :fries: McDonald's and KFC fun
 ---
 ### :hammer_and_wrench: Languages and Tools :
