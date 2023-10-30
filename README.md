@@ -34,4 +34,4 @@ I am a Junior QA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :abacus: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Darthlexx&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlexTLG&theme=dark&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
